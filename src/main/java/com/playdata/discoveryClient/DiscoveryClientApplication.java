@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 //@EnableDiscoveryClient
 @SpringBootApplication
 public class DiscoveryClientApplication {
-	
+	//
 	public static void main(String[] args) {
 		SpringApplication.run(DiscoveryClientApplication.class, args);
 	}
